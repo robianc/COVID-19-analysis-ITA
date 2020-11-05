@@ -4,7 +4,9 @@
 
 A tool for the analysis of Italian COVID-19 data at regional level.
 
-<b>Open the file COVID-19-analisi.xlsx and insert the region of interest, the variables to analyze and plot, the rolling average period.</b>
+<b>Open the file COVID-19-analisi.xlsx and insert the region of interest. You will get interpolating functions and forecasts.</b>
+
+
 
 The data are updated daily at https://github.com/pcm-dpc/COVID-19
 
