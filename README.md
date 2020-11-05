@@ -1,4 +1,4 @@
-# COVID-19_reloaded
+# COVID-19-analysis-ITA
 
 (C) Roberto Bianconi 2020 
 
